@@ -21,4 +21,4 @@
 
 - Master [parsa ghorbanian](https://github.com/parsaGhorbanian)
 
-- How to reach me : with my [instagram](https://instagram.com/amirhoseain_kh.web) and [linkedin](https://www.linkedin.com/in/amirhoseain-khodagholizadeh-web/)
+- How to reach me : with my [instagram](https://instagram.com/amirhoseain_kh.dev) and [linkedin](https://www.linkedin.com/in/amirhoseain-khodagholizadeh-web/)
