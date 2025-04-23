@@ -1,0 +1,29 @@
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+li {
+  list-style-type: none;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+  &:visited {
+    color: inherit;
+    text-decoration: none;
+  }
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.center {
+  align-items: center;
+  justify-content: center;
+}
