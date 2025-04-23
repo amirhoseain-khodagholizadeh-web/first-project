@@ -2,20 +2,23 @@
 
 **My first project in github**
 
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
+![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/first-project/blob/main/assets/images/Capture1.JPG)
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![view final](https://github.com/amirhoseain-khodagholizadeh-web/first-project/blob/main/assets/images/Capture2.JPG)
 
-- [Demo Project](https://amirhoseain-khodagholizadeh-web.github.io/first-project/)
+![view final](https://github.com/amirhoseain-khodagholizadeh-web/first-project/blob/main/assets/images/Capture3.JPG)
 
-- Developed by pouria farahani
 
-- Created - 2022-11-26
+-🔗 [Demo Project](https://amirhoseain-khodagholizadeh-web.github.io/first-project/)
 
-- Technologies Used - Html , css , js , React.js
+- Developed by amirhoseain khodagholizadeh
 
-- Hooks Used : useState 
+- Created - 2025/4
+
+- Technologies Used - Html , css 
 
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/pouria_farahani_developer) and [linkedin](https://www.linkedin.com/in/pouria-farahani-developer)
+- Master [parsa ghorbanian](https://github.com/parsaGhorbanian)
+
+- How to reach me : with my [instagram](https://instagram.com/rezageshani_web) and [linkedin](https://linkedin.com/in/reza-geshani-web)
