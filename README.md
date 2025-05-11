@@ -2,6 +2,8 @@
 
 **My first project in github**
 
+without responsove
+
 ![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/first-project/blob/main/assets/images/Capture1.JPG)
 
 ![view final](https://github.com/amirhoseain-khodagholizadeh-web/first-project/blob/main/assets/images/Capture2.JPG)
